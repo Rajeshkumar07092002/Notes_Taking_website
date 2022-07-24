@@ -1,0 +1,10 @@
+
+body{
+    background-color:white;
+    color: #3e2723;
+}
+
+Link:hover,Link:active{
+    border-bottom: 2px solid #b99650;
+    padding-bottom: 4%;
+}
